@@ -53,10 +53,7 @@ Follow these steps to set up and run the lab on your local machine:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/interpreting-eigen-lab.git
-cd interpreting-eigen-lab
-
-(Replace https://github.com/your-username/interpreting-eigen-lab.git with the actual URL of your repository.)
+git clone https://github.com/junaidshah2001/Interpreting-Eigenvalues-and-Eigenvectors
 
 Install Dependencies:
 This project requires numpy and matplotlib. You can install them using pip:
@@ -126,7 +123,5 @@ Push to the branch (git push origin feature/your-feature-name).
 
 Open a Pull Request.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details. (If you have a LICENSE file, otherwise you might want to create one or remove this section.)
 
 Happy learning!
